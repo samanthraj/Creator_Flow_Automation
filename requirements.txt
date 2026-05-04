@@ -1,0 +1,11 @@
+pillow
+openai-whisper
+yt-dlp
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+requests
+groq
+numpy
+rembg
+onnxruntime
