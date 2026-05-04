@@ -18,7 +18,7 @@ Automatically transcribes new YouTube uploads → generates viral titles, descri
 ## Step-by-Step Setup
 
 ### Step 1 — Add your Groq API key
-You already have this. Open `agent.py` and paste it where it says `YOUR_GROQ_API_KEY_HERE`.
+.env file save your model and key
 
 ---
 
@@ -105,7 +105,7 @@ Bold outlined text burned onto the thumbnail (pro YouTuber style)
         ↓
 YouTube Data API updates: new title + description + thumbnail
         ↓
-Live on YouTube. Done. ✅
+Live on YouTube. Done. 
 ```
 
 ---
